@@ -73,5 +73,6 @@ public class Main {
         System.out.println("Денис теперь получает " + Denis + " рублей. Годовой доход вырос на " + DenisDifference + " рублей.");
         int KrisDifference = (Kris * 12) - (76230 * 12);
         System.out.println("Кристина теперь получает " + Kris + " рублей. Годовой доход вырос на " + KrisDifference + " рублей.");
+        // ДЗ выполнено
     }
 }
